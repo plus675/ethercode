@@ -5,7 +5,7 @@ import "./ERC20Standard.sol";
 
 contract NewToken is ERC20Standard {
 	constructor() public {
-		totalSupply = 1000000;
+		totalSupply = 10000000;
 		name = "VrajTokenCoin";
 		decimals = 4;
 		symbol = "VRAJTC";
