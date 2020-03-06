@@ -1,10 +1,10 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'VRAJ' token contract
+// 'Vraj' token contract
 //
 // Deployed to : 0xe8466E9820929181bED9F76998fF5A68Ca7abA99
-// Symbol      : VRAJ
+// Symbol      : VRAJT
 // Name        : VRAJ Token
 // Total supply: 100000000
 // Decimals    : 18
@@ -113,7 +113,7 @@ contract VRAJToken is ERC20Interface, Owned, SafeMath {
     // Constructor
     // ------------------------------------------------------------------------
     constructor() public {
-        symbol = "VRAJ";
+        symbol = "VRAJT";
         name = "VRAJ Token";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
