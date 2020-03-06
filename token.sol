@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'VRJ' token contract
+// 'VRAJ' token contract
 //
 // Deployed to : 0xe8466E9820929181bED9F76998fF5A68Ca7abA99
 // Symbol      : VRAJ
